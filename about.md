@@ -5,7 +5,7 @@ title: About Me
 
 <p class="message">
   There is a computer disease that anybody who works with computers knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is that you 'play' with them!
-
+-----
 
 	Richard P. Feynman </p>
 
@@ -27,19 +27,19 @@ I have been passionate about computers for a really long time. I have been invol
 
 I enjoy learning new things about programming, computers and life.
 
-## What I do for fun.
-
-Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program in the last months.
-
 ## Why this page
 
 This page is an attempt to keep an online collection of codes I have written over the time.
 
-## 
+
+## What I do for fun.
+
+Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program for the last months.
+
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Some fun facts about the setup of this personal page include:
 
 * Built with [Jekyll](http://jekyllrb.com)
 * Using [Hyde](http://hyde.getpoole.com) theme
