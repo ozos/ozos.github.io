@@ -4,8 +4,10 @@ title: About Me
 ---
 
 <p class="message">
-  There is a computer disease that anybody who works with computers knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is that you 'play' with them! </p>
-  > * Richard P. Feynman *
+  There is a computer disease that anybody who works with computers knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is that you 'play' with them! 
+  	## ** Richard P. Feynman 
+</p>
+
 
 ##Who I am
 
