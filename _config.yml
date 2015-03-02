@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ozos
+tagline:          'A collection of little projects.'
+description:      'Some projects made by Ozos.'
+url:              http://ozos.github.io
+baseurl:          /
+
+author:
+  name:           'Luis Leyva'
+  url:            https://github.com/ozos
+
+paginate:         1
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ozos
