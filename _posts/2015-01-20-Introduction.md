@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Introducing to Ozos
+title: Introducing
 ---
 
 ###*Welcome!* 
 
-Hello everyone! This is Luis. You can check more about me in the next [Link](http://ozos.github.io/about/).
+Hello everyone! This is Luis. You can check more about me in the next [Link](http://ozos.github.io/about/). [GitHub](https://github.com/ozos).
 
 -----
 

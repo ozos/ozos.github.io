@@ -1,30 +1,49 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+  There is a computer disease that anybody who works with computers knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is that you 'play' with them!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Richard P. Feynman </p>
 
-There are currently two themes built on Poole:
+##Who I am
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My name is Luis Leyva. I am from Mexico. I am currently living in Mexico City. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## What I´m up to 
+
+I graduated from [Universidad Autonoma Metropolitana](http://www.azc.uam.mx/), majoring in Computer engineering as a Computer Engineer. 
+
+I am in transition between school and landing a job in career field of computer programming and software development. I am currently working in personal projects and looking for new job opportunities.
+
+In addition, I do some computer repair and maintenance.
+
+## My lifelong passion 	
+
+I have been passionate about computers for a really long time. I have been involved and interested with different computing fields like computer hardware, databases, computer networking, network security, algorithms and mainly programming. 
+
+I enjoy learning new things about programming, computers and life.
+
+## What I do for fun.
+
+Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program in the last months.
+
+## Why this page
+
+This page is an attempt to keep an online collection of codes I have written over the time.
+
+## 
 
 ## Setup
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Built with [Jekyll](http://jekyllrb.com)
+* Using [Hyde](http://hyde.getpoole.com) theme
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
+Have questions or suggestions? Feel free to contact me at [GitHub](https://github.com/ozos).
 Thanks for reading!
