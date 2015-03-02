@@ -5,7 +5,7 @@ title: Introducing
 
 ###*Welcome!* 
 
-Hello everyone! This is Luis. You can check more about me in the next [Link](http://ozos.github.io/about/). [GitHub](https://github.com/ozos).
+Hello everyone! This is Luis. You can know more about me in the next [Link](http://ozos.github.io/about/). My projects are hosted on [GitHub](https://github.com/ozos).
 
 -----
 
