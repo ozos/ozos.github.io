@@ -35,7 +35,7 @@ This page is an attempt to keep an online collection of codes I have written ove
 
 ## What I do for fun.
 
-Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program for the last five months.
+Walking, listening to music, writing, reading, programming, videogames, cooking, watching tv series, outdoors, and I have been following a regular exercise program for the last five months.
 
 
 ## Setup
