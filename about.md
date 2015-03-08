@@ -8,6 +8,7 @@ title: About Me
   -- Richard P. Feynman 
 </p>
 
+-----
 
 ##Who I am
 
@@ -23,7 +24,7 @@ In addition, I do some computer repair and maintenance.
 
 ## My lifelong passion 	
 
-I have been passionate about computers for a really long time. I have been involved and interested with different computing fields like computer hardware, databases, computer networking, network security, algorithms and mainly programming. 
+I have been passionate about computers for a really long time. I have been involved and interested in different computing fields like computer hardware, databases, computer networking, network security, algorithms and mainly programming. 
 
 I enjoy learning new things about programming, computers and life.
 
@@ -34,7 +35,7 @@ This page is an attempt to keep an online collection of codes I have written ove
 
 ## What I do for fun.
 
-Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program for the last months.
+Walking, listen to music, writing, reading, programing, videogames, cooking, tv series, outdoor and I have been sticked to an regular exercise program for the last five months.
 
 
 ## Setup
