@@ -18,7 +18,7 @@ My name is Luis Leyva. I am from Mexico. I am currently living in Mexico City.
 
 I graduated from [Universidad Autonoma Metropolitana](http://www.azc.uam.mx/), majoring in Computer engineering as a Computer Engineer. 
 
-I am in transition between school and landing a job in career field of computer programming and software development. I am currently working in personal projects and looking for new job opportunities.
+I am in transition between school and landing a job in career field of computer programming and software development or computer security. I am currently working in personal projects and looking for new job opportunities.
 
 In addition, I do some computer repair and maintenance.
 
