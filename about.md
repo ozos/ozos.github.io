@@ -10,15 +10,11 @@ title: About Me
 
 -----
 
-##Who I am
+## Who am I?
 
 My name is Luis Leyva. I am from Mexico. I am currently living in Mexico City. 
-
-## What I´m up to 
-
 I graduated from [Universidad Autonoma Metropolitana](http://www.azc.uam.mx/), majoring in Computer engineering as a Computer Engineer. 
-
-I work in a Cybersecurity. 
+I work in Cybersecurity. 
 
 ## My lifelong passion 	
 
@@ -26,14 +22,14 @@ I have been passionate about computers for a really long time. I have been invol
 
 I enjoy learning new things about security, programming, computers and life.
 
-## Why this page
+## Why this page?
 
 This page is an attempt to keep an online collection of codes I have written over the time.
 
 
-## What I do for fun.
+## Interests
 
-Walking, listening to music, writing, reading, programming, videogames, cooking, watching tv series, outdoors and testing things in virtual enviroments.
+Walking, listening to music, writing, reading, programming, videogames, cooking, watching tv series, outdoors, cybersecurity and testing things in virtual enviroments.
 
 ## Setup
 
