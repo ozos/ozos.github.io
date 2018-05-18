@@ -18,15 +18,13 @@ My name is Luis Leyva. I am from Mexico. I am currently living in Mexico City.
 
 I graduated from [Universidad Autonoma Metropolitana](http://www.azc.uam.mx/), majoring in Computer engineering as a Computer Engineer. 
 
-I am in transition between school and landing a job in career field of computer programming and software development or computer security. I am currently working in personal projects and looking for new job opportunities.
-
-In addition, I do some computer repair and maintenance.
+I work in a Cybersecurity. 
 
 ## My lifelong passion 	
 
-I have been passionate about computers for a really long time. I have been involved and interested in different computing fields like computer hardware, databases, computer networking, network security, algorithms and mainly programming. 
+I have been passionate about computers for a really long time. I have been involved and interested in different computing fields like computer hardware, databases, computer networking, network security, algorithms and programming. 
 
-I enjoy learning new things about programming, computers and life.
+I enjoy learning new things about security, programming, computers and life.
 
 ## Why this page
 
