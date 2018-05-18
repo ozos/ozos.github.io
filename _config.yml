@@ -11,7 +11,7 @@ title:            Ozos
 tagline:          'A collection of little projects.'
 description:      'Some projects made by Ozos.'
 url:              http://ozos.github.io
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Luis Leyva'
