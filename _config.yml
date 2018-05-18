@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        /
+permalink:        pretty
 #relative_permalinks: true
 
 # Setup
@@ -11,7 +11,7 @@ title:            Ozos
 tagline:          'A collection of little projects.'
 description:      'Some projects made by Ozos.'
 url:              http://ozos.github.io
-baseurl:          /
+baseurl:          /index.html
 
 author:
   name:           'Luis Leyva'
