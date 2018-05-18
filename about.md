@@ -35,10 +35,7 @@ This page is an attempt to keep an online collection of codes I have written ove
 
 ## What I do for fun.
 
-Walking, listening to music, writing, reading, programming, videogames, cooking, watching tv series, outdoors, 
-
-//and I have been following a regular exercise program for the last five months.
-
+Walking, listening to music, writing, reading, programming, videogames, cooking, watching tv series, outdoors and testing things in virtual enviroments.
 
 ## Setup
 
@@ -47,7 +44,7 @@ Some fun facts about the setup of this personal page include:
 * Built with [Jekyll](http://jekyllrb.com)
 * Using [Hyde](http://hyde.getpoole.com) theme
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Coded with [VS Code](https://code.visualstudio.com/), an amazing code editor
 
 Have questions or suggestions? Feel free to contact me at [GitHub](https://github.com/ozos).
 Thanks for reading!
